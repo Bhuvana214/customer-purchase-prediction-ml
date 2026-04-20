@@ -182,6 +182,7 @@ customer-purchase-prediction-ml/
 ## 👩‍💻 About Me
 
 **Bhuvana**
+
  AI & ML Learner | Continuous Learner
 
 ---
