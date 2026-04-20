@@ -195,8 +195,4 @@ If you found this project useful:
 🍴 Fork it
 📢 Share it
 
----
 
-## 📬 Connect
-
-Add your LinkedIn / Email here
